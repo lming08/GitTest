@@ -1,0 +1,9 @@
+
+git config --global user.name "Liang.Ming"
+520  git config --global user.email "liang.ming@ipinyou.com"
+521  git init
+522  git add -A
+523  git status
+524  git commit -m 'first commit'
+525  git remote add origin git@gitlab.ipinyou.com:liang.ming/nonebusiness.git
+526  git push -u origin master
